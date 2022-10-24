@@ -1,0 +1,19 @@
+DOMAIN EXPIRED! 
+
+https://fitnessgrafik.com
+
+-Web Application allows you to track your progress in the gym by inserting data about your workout.
+-To use the app, first, you have to create an account and verify your email address by clicking the link that was sent to your email.
+-After verifying you can log in and start using the app.
+-After every workout, you can enter the weight for each exercise you did.
+-Graphs for each exercise will be shown. On the X-axis is a date, and on the Y-axis is weight. By looking at the graph, the user can easily see if he progressed or not.
+-User can choose to view different time periods (last week, 2 weeks, month, 2 months, and so on)
+-Other things you can do are:
+ *Change username, password
+ *Delete the account and all data.
+ *Delete every single exercise data inserted
+ *Reset password by clicking on "forgot password"
+ *Use 1 Rep Max calculator
+ *Contact form
+ *Remember account on a device by using cookies
+ *Log out
