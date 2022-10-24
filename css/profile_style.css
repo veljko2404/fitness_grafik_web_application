@@ -1,0 +1,118 @@
+.div1 {
+  min-height:85vh;
+  width:100%;
+  background-image: url(../photos/image.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: 50%;
+  color:white;
+  padding:0 0 30px;
+}
+#prijavi {
+  color:white;
+  font-size:1em;
+}
+.tekst {
+  background-color: rgba(0,0,0,0.05);
+  backdrop-filter: blur(5px);
+  padding:0px;
+  margin-top: 60px;
+  border-radius: 4px;
+}
+.btn_modal{
+  margin:25px auto;
+  position: relative;
+  left:50%;
+  transform: translateX(-50%);
+  font-size: 1em;
+}
+.form-outline {
+  border:1px solid #bdbdbd !important;
+  border-radius: 3px;
+}
+
+label {
+  background-color: white !important;
+  padding-left:4px;
+  padding-right:4px;
+}
+#status {
+  margin-bottom:0 !important;
+}
+
+.dropstart .dropdown-toggle:before {
+    color: white !important;
+  }
+.profile_img {
+  transition: .5s;
+}
+.dropdown-toggle:hover .profile_img {
+  opacity: .8;
+}
+#drugi,#treci {
+  display:none;
+}
+#training {
+  margin:30px 0 90px;
+  color:#4f4f4f;
+}
+#training a {
+  float:right;
+}
+.next {
+  margin:30px 0;
+}
+select {
+  width:100%;
+  padding:5px;
+}
+.chosen-container {
+  width:100% !important;
+}
+.chosen-single {
+  width:100%;
+  padding: 3px 0 0 10px !important;
+  height: 30px !important;
+}
+.chosen-container-single .chosen-single div {
+  top: 3px;
+}
+.chosen-choices {
+  height: 30px !important;
+  padding: 4px;
+}
+.search-field {
+  margin: 0px 0 3px 5px !important;
+  padding:5px;
+}
+.chosen-search-input{
+  margin-top:6px !important;
+}
+.charts h1{
+  margin:30px;
+}
+.charts {
+  border-radius: 5px;
+  padding:0;
+}
+.charts div {
+  margin:10px auto;
+}
+.detaljnije {
+  margin:10px 0;
+  width:100%;
+}
+.det {
+  width:180px;
+  margin:auto;
+}
+.sve {
+  margin:15px 0 20px;
+  width:100%;
+  font-size:.9em;
+  transform: translateX(1px);
+}
+.linkovi div {
+  margin-bottom:10px !important;
+}
